@@ -1,7 +1,7 @@
 ---
 
 <p align="center"> 
- 	<img src="/images/logo.png" alt="laincpp">
+ 	<img src="/Images/logo.png" alt="laincpp">
 </p>
 
 ---
