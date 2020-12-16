@@ -32,6 +32,9 @@ $ ./Install.sh
 
 ---
 
-# Modo de uso
+# Modo De Uso
 
-
+<p>
+	se ejecuta el comado **laincpp** en el directorio donde el archivo.cpp se encuentre y se le pasa el archivo.
+	el comando **clscpp** borra los ejecutables los cuales se guardan en la carpeta ~/laincpp  y estos se guarda con el nombre del archivo.
+</p>
