@@ -4,7 +4,6 @@
 	<a href="https://twitter.com/Gilgamesh_06">
 		<img src="/Images/icono.png" alt="twitter" width="10%" height="10%"/>
 	</a>
-                     LainCCP
 </p>
 
 
