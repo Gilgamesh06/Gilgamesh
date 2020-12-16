@@ -1,12 +1,17 @@
+---
+
 <p align="center"> 
- 	<img src="/images/logo.png" alt="laincpp"/>
+ 	<img src="/images/logo.png" alt="laincpp">
 </p>
+
+---
 
 <p>
 	script que te facilita un poco el compilar y ejecutar codigo c++
 	desde la terminal de linux.
 </p>
 
+---
 
 # Instalacion
  
@@ -24,6 +29,8 @@ $ cd ~/Gilgamesh
 $ chmod 777 Install.sh
 $ ./Install.sh
 ```
+
+---
 
 # Modo de uso
 
