@@ -1,11 +1,13 @@
 ---
-	
-# LainCPP
-
-<a href="https://twitter.com/Gilgamesh_06">
+<p>
+	<div align="center">
+		LainCCP
+	<div/>
+	<a href="https://twitter.com/Gilgamesh_06">
 		<img src="/Images/icono.png" alt="twitter" width="10%" height="10%"align="left"/>
-</a>
+	</a>
 
+</p>
 
 ---
 
@@ -48,4 +50,4 @@ $ ./Install.sh
 el comando **clscpp** borra los ejecutables los cuales se guardan en la 
 carpeta `~/laincpp`  y estos se guarda con el nombre del archivo.*
 
----
+---                                                                         
