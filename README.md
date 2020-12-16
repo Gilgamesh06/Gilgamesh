@@ -1,8 +1,8 @@
 ---
 
-<p align="left">
+<p align="center">
 	<a href="https://twitter.com/Gilgamesh_06">
-		<img src="/Images/icono.png" alt="twitter" width="70%" height="70%"/>
+		<img src="/Images/icono.png" alt="twitter" width="80%" height="80%"/>
 	</a>
 </p>
 
