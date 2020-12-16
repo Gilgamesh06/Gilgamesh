@@ -2,7 +2,7 @@
 
 <p align="left">
 	<a href="https://twitter.com/Gilgamesh_06">
-		<img src="/Images/icono.png" alt="twitter" width="40%" height="40%"/>
+		<img src="/Images/icono.png" alt="twitter" width="65%" height="65%"/>
 	</a>
 </p>
 
